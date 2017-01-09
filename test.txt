@@ -1,3 +1,4 @@
 hello git!
+first test.
 second test.
-third test.
+thrid test.
