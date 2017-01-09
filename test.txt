@@ -1,2 +1,2 @@
-hello git!
-this is test.txt.
+Hello git!
+This is test.txt.
