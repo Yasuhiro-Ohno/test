@@ -1,4 +1,2 @@
 hello git!
-first test.
-second test.
-thrid test.
+this is test.txt.
